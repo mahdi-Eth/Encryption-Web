@@ -1,2 +1,5 @@
 # Encryption-Web
-An encryption app developed with React &amp; C
+An encryption app developed with React & c; 
+
+`in develop`
+
